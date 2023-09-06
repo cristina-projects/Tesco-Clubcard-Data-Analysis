@@ -37,8 +37,7 @@ The notebook showcases insights such as:
 - Key performance indicators (KPIs) like total money spent, total savings and average basket value
 - Most purchased products and their frequency
 - Price fluctuations of specific products over time
-- Monthly Visit Frequency over time
-
+- Monthly shop visit frequency over time
 
 ## Usage
 
